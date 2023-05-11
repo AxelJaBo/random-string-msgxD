@@ -1,0 +1,16 @@
+{
+  "name": "random-string-msgxd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Axel Jacobo <axel.910921@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg": "./bin/global.js",
+  },
+  "preferGlobal": true
+}
